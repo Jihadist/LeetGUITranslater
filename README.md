@@ -1,1 +1,1 @@
-# LeetGUITranslater
+# LeetGUITranslator
